@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">ICasa</string>
+
+    <string name="buttonRecord">start recording</string>
+
+    <!-- default model/voice -->
+    <string name="modelDefault">en-US_BroadbandModel</string>
+    <string name="voiceDefault">en-US_MichaelVoice</string>
+
+    <!-- STT credentials -->
+    <string name="STTUsername">b610280d-5f15-4c55-a15a-0de9fa257de6</string>
+    <string name="STTPassword">CLLDc20irFsa</string>
+
+    <string name="defaultTokenFactory">https://stream.watsonplatform.net/speech-to-text/api</string>
+</resources>
