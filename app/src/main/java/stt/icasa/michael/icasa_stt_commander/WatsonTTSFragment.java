@@ -207,7 +207,7 @@ public class WatsonTTSFragment extends Fragment implements ISpeechDelegate {
                         setButtonState(false);
 
                         try {
-                            String response = rClient.sendPost("http://watson-demo-md.eu-gb.mybluemix.net/watson/command", command);
+                            String response = rClient.sendPost("http://your-bluemix-app.eu-gb.mybluemix.net/watson/command", command);
                             Log.i("RESPONSE", response);
                         } catch (Exception e) {
                             e.printStackTrace();

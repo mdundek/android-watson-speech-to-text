@@ -8,8 +8,8 @@
     <string name="voiceDefault">en-US_MichaelVoice</string>
 
     <!-- STT credentials -->
-    <string name="STTUsername">b610280d-5f15-4c55-a15a-0de9fa257de6</string>
-    <string name="STTPassword">CLLDc20irFsa</string>
+    <string name="STTUsername">SPEECH2TEXT_USERNAME</string>
+    <string name="STTPassword">SPEECH2TEXT_PASSWORD</string>
 
     <string name="defaultTokenFactory">https://stream.watsonplatform.net/speech-to-text/api</string>
 </resources>
